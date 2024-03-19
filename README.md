@@ -1,2 +1,18 @@
 # Melbourne-CBD-Foot-Traffic-Analysis
-This GitHub project offers a comprehensive analysis of foot traffic in Melbourne's Central Business District (CBD) using sensor data provided by the city.
+This GitHub project offers a comprehensive analysis of foot traffic in Melbourne's Central Business District (CBD) using sensor data provided by the city.This dataset contains status, location and directional information for each pedestrian sensor device installed throughout the city.
+
+More details on the dataset can be found here -  [Melbourne City Public Data](https://data.melbourne.vic.gov.au/explore/dataset/pedestrian-counting-system-sensor-locations/information/)
+
+Environment SetUp
+This project is using a GCP hosted Linux VM.
+
+Steps to reproduce
+1. Dockerfile - contains
+2. Terraform
+3. GCP
+4. Bigquery - dbt
+5. Mage - uploading data to data lake
+6. spark,dbt
+7. Dashboard
+
+1. This dataset contains status, location and directional information for each pedestrian sensor device installed throughout the city.
